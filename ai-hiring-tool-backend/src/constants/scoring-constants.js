@@ -1,0 +1,1 @@
+export const SCORING_ENGINE_VERSION = "v1.0.0";
